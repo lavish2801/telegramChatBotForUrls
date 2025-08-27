@@ -13,8 +13,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 import pyautogui
 import subprocess
 
-API_ID = 20155781
-API_HASH = "db6f5a870fb42e682ba7e8d9e4e9cec0"
+API_ID = 20155181
+API_HASH = "db6f5a870fb42e682bseqw8d9e4e9cec0"
 TARGET_CHAT =-1002191668970 #-4859742164
 
 SENDER_CHAT=-4859742164
